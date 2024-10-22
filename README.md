@@ -52,9 +52,9 @@ A student model is trained using the outputs from these pretrained models to per
 ### Prerequisites
 
 - Python 3.8 or higher
+- Pygame (for audio playback)
 - [Git](https://git-scm.com/)
 - [Pip](https://pip.pypa.io/en/stable/installation/)
-- [FFmpeg](https://ffmpeg.org/) (for audio processing)
 
 ### Steps
 
